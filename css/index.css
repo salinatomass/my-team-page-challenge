@@ -54,6 +54,7 @@ body {
 .header-description p {
   font-size: 1.4rem;
   line-height: 2.1rem;
+  max-width: 340px;
 }
 
 .hero-grid {
@@ -155,7 +156,6 @@ body {
   }
   .header p {
     padding-top: 5px;
-    max-width: 80%;
     font-size: 1.8rem;
     line-height: 2.7rem;
   }
