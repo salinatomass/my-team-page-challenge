@@ -1,4 +1,4 @@
-# 404 Not found Challenge
+# My team page Challenge
 
 Challenge by [devchallenges.io](https://devchallenges.io/)
 
